@@ -10,7 +10,7 @@ import java.util.Scanner;
 //        Saída
 //        Para cada caso mostre o resultado da divisão com um dígito após o ponto decimal, ou “divisao impossivel” caso não seja possível efetuar o cálculo.
 
-public class DesafioTres {
+public class Desafio3 {
     public static void main(String[] args) throws IOException {
         //complete os espaços com sua solução
         Scanner leitor = new Scanner(System.in);

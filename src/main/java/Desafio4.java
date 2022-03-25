@@ -10,7 +10,7 @@ import java.util.Scanner;
 //        Para cada caso de entrada imprima uma mensagem indicando se o segundo valor encaixa no primeiro valor, confome exemplo abaixo.
 //
 
-public class DesafioQuatro {
+public class Desafio4 {
     public static void main(String[] args) throws Exception {
         Scanner scan = new Scanner(System.in);
 

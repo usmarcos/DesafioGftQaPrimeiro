@@ -9,7 +9,7 @@ import java.util.Scanner;
 //        Saída
 //        Apresente a duração do jogo conforme exemplo abaixo.
 
-public class DesafioSeis {
+public class Desafio6 {
     public static void main(String[] args){
 
         //complete os espaços em branco com sua solução para o problema

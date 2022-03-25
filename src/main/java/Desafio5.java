@@ -9,7 +9,7 @@ import java.util.Scanner;
 //        Saída
 //        A saída deve conter uma das mensagens conforme descrito acima.
 
-public class DesafioCinco {
+public class Desafio5 {
 
         public static void main(String[] args)  {
             Scanner leitor = new Scanner(System.in);

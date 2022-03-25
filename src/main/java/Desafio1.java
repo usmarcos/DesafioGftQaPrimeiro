@@ -1,4 +1,3 @@
-import java.io.IOException;
 import java.util.Scanner;
 
 //Desafio
@@ -14,7 +13,7 @@ import java.util.Scanner;
 //        Saída
 //        Imprima o tempo necessário para a moto Y ficar com a quantidade K de quilômetro da moto X, seguido da mensagem " minutos".
 
-public class DesafioUm {
+public class Desafio1 {
 
         public static void main(String[] args) {
             int minutos;
